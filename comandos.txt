@@ -1,3 +1,6 @@
+-> Configura o pc com o nome e E-mail do responsável pelo código 
+git config --global user.name "Luis Abdo"
+git config --global user.email luis.abdo2006@gmail.com
 ->incializa um repositório git (utilizado apenas uma vez)
 git init
 
@@ -14,3 +17,4 @@ git push
 
 ->Baixa a atualização dos arquivos do Github para uma pasta já existente
 git pull
+,
