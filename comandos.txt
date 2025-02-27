@@ -22,3 +22,9 @@ git push
 git pull
 Para mais comandos, acesse o link abaixo:
 https://training.github.com/downloads/pt_BR/github-git-cheat-sheet/
+Para HTML
+https://htmlcheatsheet.com/
+Para CSS
+https://htmlcheatsheet.com/css/
+Para Js
+https://htmlcheatsheet.com/js/
