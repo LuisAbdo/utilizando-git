@@ -1,3 +1,5 @@
+-> Sincroniza sem alterar a pasta local verificando mudanças no Github
+git fetch
 -> Configura o pc com o nome e E-mail do responsável pelo código 
 git config --global user.name "Luis Abdo"
 git config --global user.email luis.abdo2006@gmail.com
